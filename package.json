@@ -1,0 +1,15 @@
+{
+  "name": "nodedock",
+  "version": "1.0.0",
+  "description": "Node in Docker",
+  "author": "David Cabiness <dcabiness@werktek.com>",
+  "main": "server.js",
+
+  "scripts": {
+    "start": "node server.js"
+  },
+
+  "dependencies": {
+    "express": "*"
+  }
+}
